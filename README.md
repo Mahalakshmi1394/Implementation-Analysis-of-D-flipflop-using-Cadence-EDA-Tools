@@ -49,6 +49,9 @@ ii)	Create Schematic Cell view.
 	Click Check and Save button
 ![IMG-20241019-WA0012](https://github.com/user-attachments/assets/34ba817f-3261-4ea3-b4e2-6be450b2207d)
 
+![exp3](https://github.com/user-attachments/assets/b5b1a448-084a-43a7-bcfd-96049006e681)
+
+
 
 
  
